@@ -1,3 +1,3 @@
 # portafolio-tischis
-Techologias que utilizeen este proyecto.
+Techologias que utilize en este proyecto.
 css html bootstrap ionic snow.js
