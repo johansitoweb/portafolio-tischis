@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(5, 5, 50);
+}
+
+.nosifer-regular {
+    font-family: "Nosifer", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.cubretodo{
+    padding-left:270px ;
+    padding-right: 270px;
+}
+.bsisos{
+    background-color: rgb(5, 5, 50);
+    border: none;
+    border-radius: 10px;
+    
+}
+.bsisos:hover{
+    background-color: gray;
+    border: none;
+    border-radius: 10px;
+}
+.imagen{
+    border: none;
+    border-radius: 50px;
+    width:90px ;
+    height: 90px;
+}
